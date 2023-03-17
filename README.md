@@ -39,5 +39,6 @@ print("Hello world!")
 [dog](dog)
 
 ![Paxil](paxil.png)
+![His twin](paxil2.png)
 
 [Google Home Page](http://google.com)
