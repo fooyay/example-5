@@ -33,7 +33,9 @@ print("Hello world!")
 > "To boldly go...."
 
 [the bird directory](bird)
+
 [cat](cat)
+
 [dog](dog)
 
 ![Paxil](paxil.png)
