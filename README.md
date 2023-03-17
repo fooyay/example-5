@@ -13,9 +13,13 @@ Ordinary text
 _italics_
 **bold**
 
-This is a _challenging_ course but I **love** it.
+## This is a _challenging_ course but I **love** it.
+
+---
 
 two more lines:
+
+---
 
 ---
 
